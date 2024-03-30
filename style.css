@@ -285,6 +285,8 @@ section {
 
 .about-pic {
   border-radius: 2rem;
+  padding-top: 60px;
+  border-radius: 50%;
 }
 
 .arrow {
@@ -448,3 +450,9 @@ footer p {
   font-size: 1rem;
   margin: 1rem;
 }
+
+/* .about-pic {
+  border-radius: 50%;
+  height: 220px;
+  padding-bottom: 20px;
+} */
